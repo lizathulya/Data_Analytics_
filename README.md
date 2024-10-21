@@ -6,5 +6,4 @@ For any queries please contact:a4lmathew@gmail.com
 The sources for the projects are"
 * Alex the Analyst
 * Prepinsta Prime
-* Forage -JP Morgan's Excel Program
-* Forage -Goldman Sachs's Excel Program
+* Forage 
